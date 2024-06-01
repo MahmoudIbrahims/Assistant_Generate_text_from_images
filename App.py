@@ -2,7 +2,7 @@ from model import llava_model
 from preprocessing import load_image,process_image
 from preprocessing import create_prompt,ask_image,to_markdown
 from translation import transArabic,transEnglish
-from Text2Speech import text2speech,save_speech,play_oudio
+from Text2Speech import text2speech,save_speech,play_audio
 
 
 tokenizer, model, image_processor, context_len = llava_model()
@@ -29,7 +29,7 @@ audio =text2speech(reslut)
 
 save_speech(audio,"output.wav")
 
-play_oudio("output.wav")
+play_audio("output.wav")
 
 
 
