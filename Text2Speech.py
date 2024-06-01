@@ -16,7 +16,7 @@ def save_speech(audio,file_name):
       f.write(audio["speech"])
 
 
-def play_oudio(file_name):
+def play_audio(file_name):
   return ipd.Audio(file_name, autoplay=True)
 
 
