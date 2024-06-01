@@ -4,7 +4,7 @@ import torch
 from llava.utils import disable_torch_init
 disable_torch_init()
 
-#disable_torch_init()
+
 
 def llava_model():
     MODEL = "4bit/llava-v1.5-13b-3GB"
