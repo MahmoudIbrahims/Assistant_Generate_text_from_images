@@ -93,9 +93,7 @@ Contains functions for translating text between English and Arabic.
 - **`transArabic(text)`**: Translates English text to Arabic.
 - **`transEnglish(text)`**: Translates Arabic text to English.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
