@@ -1,6 +1,6 @@
-# Image Description and Translation with LLaVA Model
+# Image Description with LLaVA Model and Translation to Arabic
 
-This project demonstrates how to use the LLaVA model for generating image descriptions and translating them. The application processes an image, generates a textual description in English, and translates it to Arabic. The project involves loading an image, processing it, creating prompts for the model, generating a response, and translating the response.
+This project demonstrates how to use the LLaVA model for generating image descriptions and translating to Arabic with Google translation. The application processes an image, generates a textual description in English, and translates it to Arabic. The project involves loading an image, processing it, creating prompts for the model, generating a response, and translating the response.
 
 ## Features
 
