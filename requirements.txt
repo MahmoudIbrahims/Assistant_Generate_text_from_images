@@ -5,3 +5,4 @@ accelerate==0.23.0 --progress-bar off
 bitsandbytes==0.41.1 --progress-bar off
 llava-torch==1.1.1 --progress-bar off
 deep_translator
+streamlit
