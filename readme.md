@@ -22,7 +22,7 @@ To run this project, you need the following:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/llava-image-description.git
+    git clone https://github.com/MahmoudIbrahims/llava-image-description.git
     cd llava-image-description
     ```
 
