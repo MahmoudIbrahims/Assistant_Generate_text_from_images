@@ -94,6 +94,8 @@ Contains functions for translating text between English and Arabic.
 - **`transEnglish(text)`**: Translates Arabic text to English.
 
 
+## used
+i used torch==2.1 --progress-bar off
 
 ## Contributing
 
