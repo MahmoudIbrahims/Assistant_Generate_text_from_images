@@ -1,5 +1,4 @@
 pip --progress-bar off
-torch==2.1 --progress-bar off
 transformers==4.34.1 --progress-bar off
 accelerate==0.23.0 --progress-bar off
 bitsandbytes==0.41.1 --progress-bar off
