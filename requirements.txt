@@ -1,7 +1,7 @@
 pip --progress-bar off
-transformers==4.34.1 --progress-bar off
-accelerate==0.23.0 --progress-bar off
-bitsandbytes==0.41.1 --progress-bar off
-llava-torch==1.1.1 --progress-bar off
+transformers==4.36.0 
+accelerate==0.23.0 
+bitsandbytes==0.41.1
+llava-torch==1.1.1
 deep_translator
 streamlit
